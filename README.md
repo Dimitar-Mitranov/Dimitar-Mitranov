@@ -17,7 +17,7 @@ different repositories, to create contacts and also to upload some of the progra
 For now they aren't gonna be anything special, since I haven't worked on long-term projects.
 Thus I do not have complex projects I could showcase here, though I am capable of writing such.
 For now I am going to upload day-to-day exercises I solve at my universities and have fun.
-When I have more free time I may work on some interesting project.
+When I have more free time I may work on some interesting projects.
 
 - 📫 How to reach me:
 Instagram: https://www.instagram.com/__mitranov__/
