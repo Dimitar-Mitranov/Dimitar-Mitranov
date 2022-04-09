@@ -22,8 +22,3 @@ When I have more free time I may work on some interesting projects.
 - 📫 How to reach me:
 Instagram: https://www.instagram.com/__mitranov__/
 Facebook: https://www.facebook.com/dimitur.mitranovv/
-
-<!---
-Dimitar-Mitranov/Dimitar-Mitranov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
