@@ -1,4 +1,4 @@
-- 👋 Hello, my name is Dimitar Mitranov and I am an IT student from Bulgaria.
+- 👋 Hello, my name is Dimitar Mitranov and I am an IT student from Bulgaria!
 I currently study in "New Bulgarian University" and "SotfUni".
 I am also an Intern at Cerillion PLC. I am part of the Deployment Team here in Bulgaria!
 
